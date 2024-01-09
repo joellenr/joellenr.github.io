@@ -18,8 +18,10 @@ Hi there! <br><br>
 *   Traveling
 *   Cooking
 *   Live music
+*   Tattoo art
 *   Film Photography
 *   Boxing
 
-![self2](https://github.com/joellenr/joellenr.github.io/assets/156103115/e5de9493-b95e-4921-ae7e-42d621d3b6aa)
+![self3](https://github.com/joellenr/joellenr.github.io/assets/156103115/f7017320-90a8-4301-a9b9-1ecfff3f5398)
+
 
