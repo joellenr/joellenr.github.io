@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "WORK EXPERIENCE"
+title: "WORK"
 permalink: /work-experience
 ---
 
