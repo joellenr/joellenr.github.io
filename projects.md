@@ -8,7 +8,8 @@ permalink: /projects
 
 ### Rental Equipment Catalog
 
-[[https://github.com/joellenr/joellenr.github.io/images/sbr-mobile-screen.jpg|alt=sbr]]
+![sbr](https://github.com/joellenr/joellenr.github.io/images/sbr-mobile-screen.jpg)
+
 
 ### Other
 
