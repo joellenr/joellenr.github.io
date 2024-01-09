@@ -21,3 +21,5 @@ Hi there! <br><br>
 *   Live music
 *   Film Photography
 *   Boxing
+
+  ![self_2_75](https://github.com/joellenr/joellenr.github.io/assets/156103115/9845bcb7-8440-473b-8047-9d77ae28d618)
