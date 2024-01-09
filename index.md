@@ -11,7 +11,7 @@ Hi there! <br><br>
     I've worked closely with clients in a variety of industries, such as financial services, nonprofit, education.<br><br>
     Outside of work you can probably find me hanging out with friends, at a concert, roaming in NYC or in another city or country...
 
-[Work Experience](./work-experience-page.html). <br>
+[Work Experience](./work-experience.html). <br>
 [Projects](./projects.html). <br>
 
 #### Interests & Hobbies

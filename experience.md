@@ -1,10 +1,10 @@
 ---
 layout: default
 title: "WORK EXPERIENCE"
-permalink: /experience
+permalink: /work-experience
 ---
 
-## Experience
+## Work Experience
 
 _yay_
 
