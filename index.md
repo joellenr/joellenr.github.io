@@ -22,4 +22,5 @@ Hi there! <br><br>
 *   Film Photography
 *   Boxing
 
-  ![self_2_75](https://github.com/joellenr/joellenr.github.io/assets/156103115/9845bcb7-8440-473b-8047-9d77ae28d618)
+![self2](https://github.com/joellenr/joellenr.github.io/assets/156103115/e5de9493-b95e-4921-ae7e-42d621d3b6aa)
+
