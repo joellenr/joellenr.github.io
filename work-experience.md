@@ -15,7 +15,7 @@ permalink: /work-experience
   - Cooperated with a variety of clients, product owners, stakeholders in various industries to see how Salesforce can help meet their company goals e.g. financial services, non-profit, education
   - Takes part in CI/CD and coding/testing best practices in order to continuously provide clean and well-documented and tested code
 
-### U.S. Embassy in Beijing :
+### U.S. Embassy in Beijing (July 2015-July 2018)
 
 - Information Systems Center Clerk (May-July 2018)
   - Added AJAX live search functionality to the Beijing Digital Rolodex
