@@ -6,8 +6,11 @@ permalink: /projects
 
 ## Projects
 
-### Rental Equipment Catalog
+### Custom New Screen
+![scoping-assess-screen](https://github.com/joellenr/joellenr.github.io/assets/156103115/850080d6-4705-47b4-8d67-8cdbb4e1818d)
 
+
+### Rental Equipment Catalog
 ![sbr-mobile-screen](https://github.com/joellenr/joellenr.github.io/assets/156103115/325ede7b-ba18-4b26-89b7-dbb995482693)
 ![sbr-filter](https://github.com/joellenr/joellenr.github.io/assets/156103115/01a11bf6-12b9-440b-a768-12da51f575dd)
 
